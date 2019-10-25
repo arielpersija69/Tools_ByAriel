@@ -35,7 +35,7 @@ echo $ungu"
 sleep 2
 
 echo $ungu"
-╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \033[1;96m{Bang Hunters Punya}$ungu ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \033[1;96m{Ariel Sandy Permana}$ungu ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ║
 ║=>$ijo[+]$ungu Install dlu bahan2nya boz q $ijo"✔"$ungu
 ║
